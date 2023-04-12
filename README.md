@@ -18,3 +18,7 @@ The project leverages the following components and libraries :
 *  Jetpack Compose - used to create a well structured UI.
 *  Flow Layout - used to layout ui items on the screen.
 *  ViewModel - UI related data holder, lifecycle aware.
+
+## Application Demo
+Check out the demo app on Appetize.io
+*  [Demo link](https://appetize.io/app/kxel3i2lnh4e3lznyowoax6eqq?device=pixel4&osVersion=11.0&scale=75)
